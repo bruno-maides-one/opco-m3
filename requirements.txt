@@ -1,0 +1,18 @@
+# Elements de base
+fastapi
+uvicorn
+sqlalchemy
+pandas
+numpy
+seaborn
+matplotlib
+missingno
+plotly
+scikit-learn
+pytest
+joblib
+pydantic-sqlalchemy
+tensorflow
+mlflow
+# ci dessous ca ne fonctionne pas, paquet installer mais crash sur m3-brief3-autre-approche-analytique.ipynb
+tensorflow_data_validation[visualization]<2
