@@ -46,3 +46,11 @@ mlflow ui
 ```
 
 L'acces a mlflow se fait via http://127.0.0.1:5000/
+
+## Conclusion.
+
+J'ai réussis à entrainer le model initial avec le dataset "réduit", j'obtiens un R² de 0.35 avec ce jeu de donner.
+
+J'ai ensuite été capable d'étendre le dataset en ajoutant des features et de réentrainer le model existant sans perte de connaissances pour améliorer les performances globale du model. 
+
+Apres avoir étoffé les connaissance du modèle je suis passé à un R² de 0.46.
